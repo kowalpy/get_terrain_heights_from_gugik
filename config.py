@@ -1,0 +1,1 @@
+base_dir = "/home/marcin/model_terenu"
