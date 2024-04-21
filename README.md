@@ -63,5 +63,9 @@ get_from_gugik.py odpali zapytania API wygenerowane przez generate_calls_example
 
 W wynikowym CSV mogą być błędy typu HTTP Error 502: Bad Gateway. Aby je poprawić należy odpalić run correct_errors.py. Przykładowe wywołanie: correct_errors_example.sh
 
+===================Example 3D Poland downloaded from GUGIK========================
 
+Don't ask how much time it took to download whole Poland...
+
+![alt text](https://github.com/kowalpy/get_terrain_heights_from_gugik/blob/main/img/polska_3d.png "Example of 3D Poland based on GUGIK data")
 
