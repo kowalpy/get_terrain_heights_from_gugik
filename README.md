@@ -69,3 +69,7 @@ Don't ask how much time it took to download whole Poland...
 
 ![alt text](https://github.com/kowalpy/get_terrain_heights_from_gugik/blob/main/img/polska_3d.png "Example of 3D Poland based on GUGIK data")
 
+Model printed on 3D printer:
+
+![alt text](https://github.com/kowalpy/get_terrain_heights_from_gugik/blob/main/img/Polska_3d_printout.jpg "Example of 3D Poland printout")
+
