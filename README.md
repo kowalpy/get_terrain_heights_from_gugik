@@ -63,6 +63,10 @@ get_from_gugik.py odpali zapytania API wygenerowane przez generate_calls_example
 
 W wynikowym CSV mogą być błędy typu HTTP Error 502: Bad Gateway. Aby je poprawić należy odpalić run correct_errors.py. Przykładowe wywołanie: correct_errors_example.sh
 
+===================Further processing of result files=============================
+
+Result files can be converted to ESRI grid using [esri_grid_helper](https://github.com/kowalpy/esri_grid_helper)
+
 ===================Example 3D Poland downloaded from GUGIK========================
 
 Don't ask how much time it took to download whole Poland...
